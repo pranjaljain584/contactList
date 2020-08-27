@@ -9,7 +9,7 @@ Installs the required dependencies to run the app
 
 ### `node index.js`
 
-Will start the server at [http://localhost:3000](http://localhost:3000) 
+Will start the server at [http://localhost:8000](http://localhost:8000) 
 
 ## Screenshots:
 
